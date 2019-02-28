@@ -86,7 +86,7 @@ main_page_head = '''
 </head>
 '''
 
-# The main page layout and title bar
+# The main page layout & title bar
 main_page_content = '''
 <!DOCTYPE html>
 <html lang="en">
